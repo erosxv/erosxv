@@ -10,8 +10,10 @@
   <img align="center" alt="eros-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="eros-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="eros-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img src="https://giphy.com/stickers/transparent-rick-ross-pears-6Uj6lFq4KWDQY" width="300px" height="100px">
   
-  ![](https://giphy.com/stickers/mario-digital-art-8bit-bUjRkIBfiQ4nPRhWq2)
+  ![giphy](https://user-images.githubusercontent.com/104534740/196073254-3a8dbfb4-df59-48d2-9271-1d51a09fb736.gif)
+  
   <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://giphy.com/stickers/swag-oh-yeah-HFLCA14BM9zR6">
 </div>
   
