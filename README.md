@@ -1,6 +1,6 @@
 <img align="center" alt="gif" height="300" style="border-radius:50px;" src="https://media.giphy.com/media/PuX3MIMP89YGc/giphy.gif">
 
-## Olá, seja Bem-Vindo(a) ao meu perfil!!
+## Hey there!!
  <div align="center">
   <a href="https://github.com/erosxv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erosxv&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
