@@ -1,4 +1,4 @@
-<img align="center" alt="gif" height="300" style="border-radius:50px;" src="https://media.giphy.com/media/PuX3MIMP89YGc/giphy.gif">
+<img align="center" alt="gif" height="300" style="border-radius:50px;" src="https://media.giphy.com/media/RyEx4MZOCL3Fu/giphy.gif">
 
 ## Hey there!!
  <div align="center">
