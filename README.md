@@ -7,7 +7,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erosxv&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erosxv&layout=compact&langs_count=7&theme=omni"/>
 </div>
-<div style="display: inline_block"><br>
+<div style=
+width: "150px";
+"display: inline_block"><br>
  
   <img align="center" alt="eros-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="eros-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
